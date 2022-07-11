@@ -1,6 +1,6 @@
 # GMM-GMR for robot learning
 
-This project implements a Gaussian Mixture Regression (GMM-GMR) to learn an inverse kinematics model of a robot based on a given dataset. Prediction results from the model learnt using GMM-GMR will be compared with resutls from the formulated model based on differential drive robot kinematics. Details of the model and dataset formulation are given in [this pdf (formulation)](documents/formulation.pdf). Details of the algorithm and implementation choices are given in [this pdf (gmmgmr)](documents/gmmgmr.pdf)
+This project implements a Gaussian Mixture Regression (GMM-GMR) to learn an inverse kinematics model of a robot based on a given dataset. Prediction results from the model learnt using GMM-GMR will be compared with resutls from the formulated model based on differential drive robot kinematics. Details of the model and dataset formulation are given in [this pdf (formulation)](documents/formulation.pdf). Details of the algorithm and implementation choices are given in [this pdf (algorithm_gmmgmr)](documents/algorithm_gmmgmr.pdf)
 
 
 ## Running the code
